@@ -1,9 +1,9 @@
-#Setup
+# Setup
 ```
 npm install
 ```
 
-#Run
+# Run
 ```
 npx vite
 ```
