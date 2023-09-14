@@ -1,3 +1,11 @@
-Run 'npx vite' and connect to the provided address.
+#Setup
+```
+npm install
+```
+
+#Run
+```
+npx vite
+```
 
 Requires npm and Node.js.
